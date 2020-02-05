@@ -1,6 +1,6 @@
 /*Background Image from Assets*/
 body{
-    background-image: url(./Images/Background.jpg);
+    background-image: url(../Images/Background.jpg);
 }
 /*Navbar detailed slightly*/
 .navbar{
